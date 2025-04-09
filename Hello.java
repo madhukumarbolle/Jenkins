@@ -1,9 +1,7 @@
-		class Hello{
-		
-		public static void main(){
-		
-		System.out.println("Hello  Developers!");
-		
-		}
-		
-		}
+class Hello {
+
+    public static void main(String[] args) {
+        System.out.println("Hello Developers!");
+    }
+
+}
